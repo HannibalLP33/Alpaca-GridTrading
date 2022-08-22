@@ -1,0 +1,7 @@
+alpaca-trade-api
+pandas
+numpy
+time
+math
+threading
+warnings
